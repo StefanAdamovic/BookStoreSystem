@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.Exception
+namespace ConsoleApp1.ExceptionsBook
 {
-    class BookException : ApplicationException
+    class BookException : Exception
     {
         public BookException(string message) : base(message)
         {

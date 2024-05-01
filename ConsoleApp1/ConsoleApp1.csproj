@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Database\Database.cs" />
-    <Compile Include="Exception\BookException.cs" />
+    <Compile Include="ExceptionsBook\BookException.cs" />
     <Compile Include="InputHandlers\BookInputHandler.cs" />
     <Compile Include="InputHandlers\BookRender.cs" />
     <Compile Include="Model\Book.cs" />

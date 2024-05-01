@@ -1,7 +1,7 @@
 ﻿using ConsoleApp1.Model;
 using System;
 using System.Collections.Generic;
-using ConsoleApp1.Exception;
+using ConsoleApp1.ExceptionsBook;
 
 namespace ConsoleApp1.Service.impl
 {
